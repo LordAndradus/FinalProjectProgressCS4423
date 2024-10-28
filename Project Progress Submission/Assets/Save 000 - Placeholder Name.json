@@ -1,0 +1,3544 @@
+{
+    "SaveFileDateTime": "10/19/2024 - 13:32:12",
+    "ArmyCount": 50,
+    "ArmyMax": 0,
+    "units": [
+        {
+            "spriteView": {
+                "instanceID": 31402
+            },
+            "Name": "Jago",
+            "UIFriendlyClassName": "Fighter",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31406
+            },
+            "Name": "Nolan",
+            "UIFriendlyClassName": "Squire",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31406
+            },
+            "Name": "Phineas",
+            "UIFriendlyClassName": "Squire",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31418
+            },
+            "Name": "Fayra",
+            "UIFriendlyClassName": "Skirmisher",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31422
+            },
+            "Name": "Fenrir",
+            "UIFriendlyClassName": "Tyro Bowman",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31422
+            },
+            "Name": "Nyron",
+            "UIFriendlyClassName": "Tyro Bowman",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31422
+            },
+            "Name": "Derrin",
+            "UIFriendlyClassName": "Tyro Bowman",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31414
+            },
+            "Name": "Deira",
+            "UIFriendlyClassName": "Apothecary",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31410
+            },
+            "Name": "Corvus",
+            "UIFriendlyClassName": "Neophyte Magus",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31414
+            },
+            "Name": "Xelena",
+            "UIFriendlyClassName": "Apothecary",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31406
+            },
+            "Name": "Leoric",
+            "UIFriendlyClassName": "Squire",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31422
+            },
+            "Name": "Perrick",
+            "UIFriendlyClassName": "Tyro Bowman",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31422
+            },
+            "Name": "Dorian",
+            "UIFriendlyClassName": "Tyro Bowman",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31414
+            },
+            "Name": "Ursula",
+            "UIFriendlyClassName": "Apothecary",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31406
+            },
+            "Name": "Jorin",
+            "UIFriendlyClassName": "Squire",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31414
+            },
+            "Name": "Hedra",
+            "UIFriendlyClassName": "Apothecary",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31410
+            },
+            "Name": "Ithran",
+            "UIFriendlyClassName": "Neophyte Magus",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31402
+            },
+            "Name": "Helm",
+            "UIFriendlyClassName": "Fighter",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31422
+            },
+            "Name": "Jarrod",
+            "UIFriendlyClassName": "Tyro Bowman",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31414
+            },
+            "Name": "Oriana",
+            "UIFriendlyClassName": "Apothecary",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31418
+            },
+            "Name": "Gwendolyn",
+            "UIFriendlyClassName": "Skirmisher",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31414
+            },
+            "Name": "Cerys",
+            "UIFriendlyClassName": "Apothecary",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31406
+            },
+            "Name": "Warin",
+            "UIFriendlyClassName": "Squire",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31402
+            },
+            "Name": "Godwyn",
+            "UIFriendlyClassName": "Fighter",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31406
+            },
+            "Name": "Nikolai",
+            "UIFriendlyClassName": "Squire",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31410
+            },
+            "Name": "Dain",
+            "UIFriendlyClassName": "Neophyte Magus",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        },
+        {
+            "spriteView": {
+                "instanceID": 31406
+            },
+            "Name": "Elric",
+            "UIFriendlyClassName": "Squire",
+            "Description": "Make sure to fill in the description, young game maker",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Rarity": {
+                "elements": []
+            },
+            "unitTracker": {
+                "elements": []
+            },
+            "Threat": 100,
+            "HP": 100,
+            "MaxHP": 100,
+            "Armor": 100,
+            "WeaponPower": 100,
+            "Strength": 100,
+            "Agility": 100,
+            "Magic": 100,
+            "Leadership": 100,
+            "FieldCost": 100,
+            "StrengthRequirement": 0,
+            "AgilityRequirement": 0,
+            "MagicRequirement": 0,
+            "HPAdd": [],
+            "ArmorAdd": [],
+            "WeaponPowerAdd": [],
+            "StrengthAdd": [],
+            "AgilityAdd": [],
+            "MagicAdd": [],
+            "Growth": 0,
+            "HPGrowth": 0.0,
+            "DexterityGrowth": 0.0,
+            "MagicGrowth": 0.0,
+            "LeadershipGrowth": 0.0,
+            "HPRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "DexterityRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "MagicRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "LeadershipRange": {
+                "<First>k__BackingField": 0.0,
+                "<Second>k__BackingField": 0.0
+            },
+            "Level": 0,
+            "TierLevel": 0,
+            "PromotionPoints": 0,
+            "ExperiencePoints": 0,
+            "PromotionCap": 0,
+            "ExperienceCap": 0,
+            "GoldCost": 0,
+            "IronCost": 0,
+            "MagicGemCost": 0,
+            "HorseCost": 0,
+            "HolyTearCost": 0,
+            "AdamntiumCost": 0,
+            "MaxTraits": 6
+        }
+    ],
+    "squads": [
+        {
+            "Name": "Fayra's Squad",
+            "_units": [
+                {
+                    "spriteView": {
+                        "instanceID": 31414
+                    },
+                    "Name": "Fayra",
+                    "UIFriendlyClassName": "Apothecary",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31402
+                    },
+                    "Name": "Garrick",
+                    "UIFriendlyClassName": "Fighter",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31410
+                    },
+                    "Name": "Nolan",
+                    "UIFriendlyClassName": "Neophyte Magus",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31422
+                    },
+                    "Name": "Lorian",
+                    "UIFriendlyClassName": "Tyro Bowman",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                }
+            ],
+            "MovementType": 0,
+            "MoveSpeed": 6
+        },
+        {
+            "Name": "Yvain's Squad",
+            "_units": [
+                {
+                    "spriteView": {
+                        "instanceID": 31406
+                    },
+                    "Name": "Yvain",
+                    "UIFriendlyClassName": "Squire",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31406
+                    },
+                    "Name": "Loric",
+                    "UIFriendlyClassName": "Squire",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31418
+                    },
+                    "Name": "Jora",
+                    "UIFriendlyClassName": "Skirmisher",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31418
+                    },
+                    "Name": "Rowena",
+                    "UIFriendlyClassName": "Skirmisher",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31422
+                    },
+                    "Name": "Jareth",
+                    "UIFriendlyClassName": "Tyro Bowman",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31402
+                    },
+                    "Name": "Edric",
+                    "UIFriendlyClassName": "Fighter",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31410
+                    },
+                    "Name": "Weylin",
+                    "UIFriendlyClassName": "Neophyte Magus",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31414
+                    },
+                    "Name": "Ylva",
+                    "UIFriendlyClassName": "Apothecary",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                }
+            ],
+            "MovementType": 0,
+            "MoveSpeed": 6
+        },
+        {
+            "Name": "Vardon's Squad",
+            "_units": [
+                {
+                    "spriteView": {
+                        "instanceID": 31410
+                    },
+                    "Name": "Vardon",
+                    "UIFriendlyClassName": "Neophyte Magus",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31410
+                    },
+                    "Name": "Perrick",
+                    "UIFriendlyClassName": "Neophyte Magus",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                }
+            ],
+            "MovementType": 0,
+            "MoveSpeed": 6
+        },
+        {
+            "Name": "Uther's Squad",
+            "_units": [
+                {
+                    "spriteView": {
+                        "instanceID": 31422
+                    },
+                    "Name": "Uther",
+                    "UIFriendlyClassName": "Tyro Bowman",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31422
+                    },
+                    "Name": "Helm",
+                    "UIFriendlyClassName": "Tyro Bowman",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31422
+                    },
+                    "Name": "Ulman",
+                    "UIFriendlyClassName": "Tyro Bowman",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                }
+            ],
+            "MovementType": 0,
+            "MoveSpeed": 6
+        },
+        {
+            "Name": "Zarek's Squad",
+            "_units": [
+                {
+                    "spriteView": {
+                        "instanceID": 31410
+                    },
+                    "Name": "Zarek",
+                    "UIFriendlyClassName": "Neophyte Magus",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31422
+                    },
+                    "Name": "Corwin",
+                    "UIFriendlyClassName": "Tyro Bowman",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31402
+                    },
+                    "Name": "Kallus",
+                    "UIFriendlyClassName": "Fighter",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31418
+                    },
+                    "Name": "Zanna",
+                    "UIFriendlyClassName": "Skirmisher",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31410
+                    },
+                    "Name": "Tarran",
+                    "UIFriendlyClassName": "Neophyte Magus",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                },
+                {
+                    "spriteView": {
+                        "instanceID": 31418
+                    },
+                    "Name": "Miriel",
+                    "UIFriendlyClassName": "Skirmisher",
+                    "Description": "Make sure to fill in the description, young game maker",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Rarity": {
+                        "elements": []
+                    },
+                    "unitTracker": {
+                        "elements": []
+                    },
+                    "Threat": 100,
+                    "HP": 100,
+                    "MaxHP": 100,
+                    "Armor": 100,
+                    "WeaponPower": 100,
+                    "Strength": 100,
+                    "Agility": 100,
+                    "Magic": 100,
+                    "Leadership": 100,
+                    "FieldCost": 100,
+                    "StrengthRequirement": 0,
+                    "AgilityRequirement": 0,
+                    "MagicRequirement": 0,
+                    "HPAdd": [],
+                    "ArmorAdd": [],
+                    "WeaponPowerAdd": [],
+                    "StrengthAdd": [],
+                    "AgilityAdd": [],
+                    "MagicAdd": [],
+                    "Growth": 0,
+                    "HPGrowth": 0.0,
+                    "DexterityGrowth": 0.0,
+                    "MagicGrowth": 0.0,
+                    "LeadershipGrowth": 0.0,
+                    "HPRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "DexterityRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "MagicRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "LeadershipRange": {
+                        "<First>k__BackingField": 0.0,
+                        "<Second>k__BackingField": 0.0
+                    },
+                    "Level": 0,
+                    "TierLevel": 0,
+                    "PromotionPoints": 0,
+                    "ExperiencePoints": 0,
+                    "PromotionCap": 0,
+                    "ExperienceCap": 0,
+                    "GoldCost": 0,
+                    "IronCost": 0,
+                    "MagicGemCost": 0,
+                    "HorseCost": 0,
+                    "HolyTearCost": 0,
+                    "AdamntiumCost": 0,
+                    "MaxTraits": 6
+                }
+            ],
+            "MovementType": 0,
+            "MoveSpeed": 6
+        }
+    ]
+}

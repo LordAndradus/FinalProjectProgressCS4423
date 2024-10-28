@@ -1,0 +1,26 @@
+{
+    "GameplayBool": {
+        "elements": [
+            {
+                "key": 1,
+                "value": false
+            },
+            {
+                "key": 3,
+                "value": true
+            },
+            {
+                "key": 2,
+                "value": false
+            },
+            {
+                "key": 4,
+                "value": false
+            },
+            {
+                "key": 0,
+                "value": true
+            }
+        ]
+    }
+}

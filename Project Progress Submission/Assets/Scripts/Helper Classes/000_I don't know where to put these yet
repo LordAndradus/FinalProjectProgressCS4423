@@ -1,0 +1,288 @@
+//Putting random stuff here so I can reference for later. Basically, this is all dead code that I put a lot of time typing and thinking over
+
+/* GameObject elementInList = UtilityClass.CreateClickableObject(UnitList.transform.GetChild(0).transform,
+"List_Element_" + elementTracker++, new Vector2(425, 300), default, default, () => {
+    SelectUnitButton(unit, elementTracker - 1);
+});
+
+elementInList.AddComponent<LayoutElement>();
+
+GameObject UnitView = new GameObject("Unit View");
+Image unitImage = UnitView.AddComponent<Image>();
+//Set source image here
+unitImage.transform.localPosition = new Vector3(-100, 30, 0);
+UnitView.GetComponent<RectTransform>().sizeDelta = new Vector2(210, 205);
+
+GameObject Information = new GameObject("Unit Info");
+Information.AddComponent<CanvasRenderer>();
+Information.transform.SetParent(elementInList.transform, true);
+TextMeshProUGUI tmpT = Information.AddComponent<TextMeshProUGUI>();
+tmpT.text = unit.displayInfo();
+tmpT.alignment = TextAlignmentOptions.Center;
+tmpT.enableWordWrapping = false;
+tmpT.color = Color.black;
+TMP_FontAsset font = AssetDatabase.LoadAssetAtPath<TMP_FontAsset>("Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset");
+Debug.Log(font.ToString());
+Debug.Log(font.faceInfo);
+tmpT.font = font;
+Information.transform.position = Vector3.zero;
+Information.transform.localPosition = Vector3.zero;
+Information.transform.localScale = Vector3.one; */
+
+/* if(mc.SquadList.Count > 0) for(i = 0, squad = mc.SquadList[i]; i < mc.SquadList.Count; i++, squad = mc.SquadList[i])
+{
+    //Create horizontal layout
+    if(i % 3 == 0)
+    {
+        HorizontalLayout = new("Horizontal_Element_" + (i / 3));
+        HorizontalLayoutGroup hlg = HorizontalLayout.AddComponent<HorizontalLayoutGroup>();
+        hlg.childForceExpandWidth = false;
+        hlg.spacing = 10f;
+        hlg.padding.left = 10;
+        hlg.padding.right = 10;
+
+        HorizontalLayout.transform.SetParent(UnitList.transform.GetChild(0));
+    }
+
+    //Create Button
+    GameObject elementInLayout = UtilityClass.CreateClickableObject(HorizontalLayout.transform,
+    "List_Element_" + i, new Vector2(360, 280), default, default, () => { Debug.Log("Squad element " + i + " clicked."); });
+} */
+
+
+
+
+
+/*void dragPanCamera()
+    {
+        if(Input.GetMouseButtonDown(0))
+        {
+            CameraOrigin = UtilityClass.GetScreenMouseToWorld();
+        }
+
+        if(Input.GetMouseButton(0))
+        {
+            PointerDifference = UtilityClass.GetScreenMouseToWorld() - camera.transform.position;
+
+            camera.transform.position = CameraOrigin - PointerDifference;
+        }
+
+        if(Input.GetMouseButton(2))
+        {
+            camera.transform.position = ResetCameraOrigin;
+            camera.orthographicSize = 5f;
+            GlobalSettings.ZoomSettings[CameraKey.targetZoom] = 5f;
+        }
+    }
+
+    void panCamera()
+    {
+        if(Input.anyKey)
+        {
+            bool fastPan = Input.GetKey(GlobalSettings.ControlMap[SettingKey.FastPan]);
+            Vector3 pan = Vector3.zero;
+            
+            if(Input.GetKey(GlobalSettings.ControlMap[SettingKey.Up]) || Input.GetKey(GlobalSettings.ControlMap[SettingKey.UpS])) pan += new Vector3(0, 1, 0);
+            if(Input.GetKey(GlobalSettings.ControlMap[SettingKey.Down]) || Input.GetKey(GlobalSettings.ControlMap[SettingKey.DownS])) pan += new Vector3(0, -1, 0);
+            if(Input.GetKey(GlobalSettings.ControlMap[SettingKey.Left]) || Input.GetKey(GlobalSettings.ControlMap[SettingKey.LeftS])) pan += new Vector3(-1, 0, 0);
+            if(Input.GetKey(GlobalSettings.ControlMap[SettingKey.Right]) || Input.GetKey(GlobalSettings.ControlMap[SettingKey.RightS])) pan += new Vector3(1, 0, 0);
+
+            //pan = clampPan((fastPan ? pan *= GlobalSettings.PanSpeed * 3.0f : pan *= GlobalSettings.PanSpeed) * Time.deltaTime);
+            pan = (fastPan ? pan *= GlobalSettings.PanSpeed * 3.0f : pan *= GlobalSettings.PanSpeed) * Time.deltaTime;
+            if(pan.Equals(Vector3.zero)) return;
+            
+            camera.transform.position += pan;
+        }
+    }
+
+    float oldCamSize;
+    float newCamSize;
+    void zoomCamera()
+    {
+        if(Input.mouseScrollDelta.y != 0.00f)
+        {
+            GlobalSettings.ZoomSettings[CameraKey.targetZoom] -= Input.mouseScrollDelta.y * 0.5f;
+            GlobalSettings.ZoomSettings[CameraKey.targetZoom] = Mathf.Clamp(GlobalSettings.ZoomSettings[CameraKey.targetZoom], GlobalSettings.ZoomSettings[CameraKey.minZoom], GlobalSettings.ZoomSettings[CameraKey.maxZoom]);
+        }
+
+        float sizeDelta = Mathf.MoveTowards(camera.orthographicSize, GlobalSettings.ZoomSettings[CameraKey.targetZoom], GlobalSettings.ZoomSettings[CameraKey.zoomSpeed] * Time.deltaTime);
+        newCamSize = sizeDelta;
+        oldCamSize = camera.orthographicSize;
+        camera.orthographicSize = newCamSize;
+    }
+
+    void ClampCameraPan(Vector3 ResetVector)
+    {
+        //If Camera transform position exceeds the width and height bounds of the level, then reset the position to its initial position
+        Vector3 FauxCamPos = UtilityClass.CopyAbsVector(camera.transform.position) + new Vector3(camera.orthographicSize * camera.aspect, camera.orthographicSize);
+        //Reset X position of camera
+        if(FauxCamPos.x > currentLevel.MapSize.First/2) camera.transform.position = new Vector3(ResetVector.x, camera.transform.position.y, camera.transform.position.z);
+        //Reset Y position of camera
+        if(FauxCamPos.y > currentLevel.MapSize.Second/2) camera.transform.position = new Vector3(camera.transform.position.x, ResetVector.y, camera.transform.position.z);
+    }
+
+    void ClampCameraZoom()
+    {
+        Vector3 FauxCameraPosition = UtilityClass.CopyVector(camera.transform.position);
+
+        FauxCameraPosition.x += FauxCameraPosition.x > 0 ? camera.orthographicSize * camera.aspect : -camera.orthographicSize * camera.aspect;
+        FauxCameraPosition.y += FauxCameraPosition.y > 0 ? camera.orthographicSize : -camera.orthographicSize;
+
+        float MapMaxWidth = currentLevel.MapSize.First/2;
+        float MapMaxHeight = currentLevel.MapSize.Second/2;
+
+        if(FauxCameraPosition.x > MapMaxWidth) FauxCameraPosition.x = MapMaxWidth;
+        if(FauxCameraPosition.x < -MapMaxWidth) FauxCameraPosition.x = -MapMaxWidth;
+
+        if(FauxCameraPosition.y > MapMaxHeight) FauxCameraPosition.y = MapMaxHeight;
+        if(FauxCameraPosition.y < -MapMaxHeight) FauxCameraPosition.y = -MapMaxHeight;
+
+        //Now we clamp the zoom target
+        if(FauxCameraPosition.x > MapMaxWidth || FauxCameraPosition.y > MapMaxHeight)
+        {
+            GlobalSettings.ZoomSettings[CameraKey.targetZoom] = oldCamSize;
+            camera.orthographicSize = oldCamSize;
+        }
+
+        FauxCameraPosition.x -= FauxCameraPosition.x > 0 ? camera.orthographicSize * camera.aspect : -camera.orthographicSize * camera.aspect;
+        FauxCameraPosition.y -= FauxCameraPosition.y > 0 ? camera.orthographicSize : -camera.orthographicSize;
+
+        camera.transform.position = UtilityClass.CopyVector(FauxCameraPosition);
+    } */
+
+
+/*
+PathFinder pf = PathFinder.instance;
+        GridSystem<PathNode> PathGrid = pf.GetGridSystem();
+
+        ClearHighlighting();
+
+        PathGrid.GetXY(transform.position, out int xPos, out int yPos);
+        int MoveMax = squad.MoveSpeed;
+        ValidatedMoves = new();
+        HighlightedTiles = new();
+
+        //TODO: Check neighboring tiles to see if it has an enemy, if it does then mark it for attacking
+        //TODO: Also when we find a neighboring tile with an enemy, apply Zone of Control
+
+        PathFinder.instance.FindDiagonal = false;
+        for(int x = xPos - MoveMax; x <= xPos + MoveMax; x++)
+        {
+            for(int y = yPos - MoveMax; y <= yPos + MoveMax; y++)
+            {
+                if(x < 0 || y < 0 || x >= Level.MapSize.First || y >= Level.MapSize.Second || (x == xPos && y == yPos)) continue;
+                
+                bool allyOccupied = false;
+                foreach(SquadMovementHandler smh in controller.SquadMoverList)
+                {
+                    int smhX = smh.Coordinate.First, smhY = smh.Coordinate.Second;
+
+                    if(smhX == x && smhY == y) 
+                    {
+                        allyOccupied = true;
+                        break;
+                    }
+                }
+                if(allyOccupied) continue;
+                
+                //Has path, path within move distance, position is walkable, AND spot is not occupied by ally
+                List<PathNode> path = PathFinder.instance.FindPath(xPos, yPos, x, y);
+                if(path == null) continue;
+                int pathCount = path.Count;
+                bool walkable = PathFinder.instance.IsPositionWalkable(x, y);
+                bool hasPath = PathFinder.instance.HasPath(xPos, yPos, x, y);
+
+                if(pathCount <= MoveMax && walkable && hasPath)
+                {
+                    Vector3 node = pf.GetGridSystem().GetWorldPosition(x, y);
+
+                    HTGridCoordinate.Add(new Pair<int, int>(x, y));
+                    ValidatedMoves.Add(node);
+
+                    GameObject move = UtilityClass.CreatePrefabObject("Assets/PreFabs/Main Game/TileHighlight.prefab", gameObject.transform, "Node " + node);
+                    move.transform.localPosition = gameObject.transform.InverseTransformPoint(node) + Vector3.one * 0.5f;
+                    HighlightedTiles.Add(move);
+                }
+            }
+        }
+
+        //Load Attack squares - One way is to identify how many neighbors are there, if there are 5 or less, it's an edge tile.
+        //Or just move one more tile out, but add it to the attack tiles
+        MoveMax++;
+        for(int x = xPos - MoveMax; x <= xPos + MoveMax; x++)
+        {
+            for(int y = yPos - MoveMax; y <= yPos + MoveMax; y++)
+            {
+                if(x < 0 || y < 0 || x >= Level.MapSize.First || y >= Level.MapSize.Second || (x == xPos && y == yPos)) continue;
+                
+                bool allyOccupied = false;
+                foreach(SquadMovementHandler smh in controller.SquadMoverList)
+                {
+                    int smhX = smh.Coordinate.First, smhY = smh.Coordinate.Second;
+
+                    if(smhX == x && smhY == y) 
+                    {
+                        allyOccupied = true;
+                        break;
+                    }
+                }
+
+                if(allyOccupied) continue;
+                
+                //Has path, path within move distance, and position is walkable
+                List<PathNode> path = PathFinder.instance.FindPath(xPos, yPos, x, y);
+                if(path == null) continue;
+                int pathCount = path.Count;
+                bool walkable = PathFinder.instance.IsPositionWalkable(x, y);
+                bool hasPath = PathFinder.instance.HasPath(xPos, yPos, x, y);
+
+                if(pathCount <= MoveMax && walkable && hasPath) 
+                {
+                    AttackVectors.Add(pf.GetGridSystem().GetWorldPosition(x, y));
+
+                    if(!ValidatedMoves.Contains(pf.GetGridSystem().GetWorldPosition(x, y)))
+                    {
+                        Vector3 node = pf.GetGridSystem().GetWorldPosition(x, y);
+                        GameObject move = UtilityClass.CreatePrefabObject("Assets/PreFabs/Main Game/TileCombat.prefab", gameObject.transform, "Node " + node);
+                        move.transform.localPosition = gameObject.transform.InverseTransformPoint(node) + Vector3.one * 0.5f;
+                        HighlightedTiles.Add(move);
+                    }
+                }
+            }
+        }
+        PathFinder.instance.FindDiagonal = true;
+*/
+
+/* PathFinder.instance.GetGridSystem().GetXY(mouseTarget, out int x, out int y);
+                Pair<int, int> mouse = new(x, y); */
+
+/* if(selectedSquad.CheckAttackVector(mouse))
+    {
+        selectedSquad.SetMousePathList();
+        Debug.Log("I am attacking da enemy");
+        attackedSquad.SquadDestroyed();
+    }
+    else
+    {
+        if(!selectedSquad.SetMousePathList()) Debug.LogError("Player did not click within tile range");
+        selectedSquad = null;
+        CurrentSelection = null;
+        StateMachine.Pop();
+    } */
+
+            /*PathFinder.instance.GetGridSystem().GetXY(target, out int x, out int y);
+
+            Coordinate.First = x;
+            Coordinate.Second = y;
+
+            StringBuilder sb = new("Path list in Mover: ");
+
+            foreach (Vector3 path in pathList)
+            {
+                PathFinder.instance.GetGridSystem().GetXY(path, out int x, out int y);
+                sb.Append(string.Format("({0}, {1}) => ", x, y));
+            }
+
+            sb.Append("END");
+
+            Debug.Log(sb.ToString()); */
